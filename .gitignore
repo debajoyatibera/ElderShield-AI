@@ -1,0 +1,67 @@
+# ============================================================
+# ElderShield AI — .gitignore
+# Android + Firebase Cloud Functions + Gradle
+# ============================================================
+
+# ----- SECURITY: NEVER COMMIT THESE -----
+local.properties
+google-services.json
+*.keystore
+*.jks
+.env
+.env.*
+*.env.local
+firebase-debug.log
+firebase-debug.*.log
+functions/.secret.local
+
+# ----- Android / Gradle -----
+.gradle/
+build/
+app/build/
+/local.properties
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.aab
+*.ap_
+*.dex
+
+# ----- Android Studio / IntelliJ IDEA -----
+*.iml
+.idea/
+*.iws
+*.ipr
+out/
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+.idea/modules.xml
+.idea/navEditor.xml
+.idea/appInsightsSettings.xml
+
+# ----- Firebase / Node -----
+node_modules/
+functions/node_modules/
+functions/lib/
+functions/.runtimeconfig.json
+.firebase/
+
+# ----- OS Files -----
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ----- Kotlin -----
+*.class
+
+# ----- ProGuard -----
+proguard/
+
+# ----- Test results -----
+test-results/

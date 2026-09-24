@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ElderShield AI</string>
+    <string name="home_title">ElderShield AI</string>
+    <string name="home_status">Your phone is protected.</string>
+    <string name="home_description">We check messages and links to keep you safe from scams.</string>
+    <string name="check_message_button">Check a Message</string>
+    
+    <string name="check_message_title">Check Message</string>
+    <string name="check_message_hint">Paste the message or link here...</string>
+    <string name="check_message_error_empty">Please enter a message to check.</string>
+    
+    <string name="status_safe">Looks Safe</string>
+    <string name="status_warning">Be Careful</string>
+    <string name="status_danger">Possible Scam</string>
+    
+    <string name="what_happened">What happened?</string>
+    <string name="what_to_do">What should I do?</string>
+    <string name="danger_advice">Do not click links or share personal information.</string>
+    
+    <string name="back">Back</string>
+    
+    <string name="check_link_button">Check a Link</string>
+    <string name="check_call_button">Check a Call</string>
+    <string name="settings_button">Settings</string>
+
+    <string name="check_link_title">Check Link</string>
+    <string name="check_link_hint">Paste the website link here...</string>
+    <string name="check_link_error_empty">Please enter a link to check.</string>
+
+    <string name="check_call_title">Check Call</string>
+    <string name="check_call_hint">Type the phone number here...</string>
+    <string name="check_call_error_empty">Please enter a phone number.</string>
+
+    <string name="settings_title">Settings &amp; Help</string>
+    <string name="settings_about">About ElderShield AI</string>
+    <string name="settings_help">Help &amp; Tutorial</string>
+    <string name="settings_language">Change Language</string>
+
+    <string name="analyzing_title">Checking...</string>
+    <string name="analyzing_desc">Please wait while we check this for you.</string>
+    <string name="status_unknown">Unable to Assess</string>
+    <string name="error_fallback">We couldn\'t check this right now. Please treat it as suspicious and be careful.</string>
+</resources>

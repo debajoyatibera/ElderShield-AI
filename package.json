@@ -1,0 +1,16 @@
+{
+  "name": "elder-shield-ai",
+  "version": "1.0.0",
+  "description": "ElderShield AI helps elderly users identify whether a call, link, or message is genuine or a scam. It analyzes suspicious communications and warns users using extremely simple language and a highly visible threat interface.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "firebase-tools": "^15.30.0"
+  }
+}

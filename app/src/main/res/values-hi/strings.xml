@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ElderShield AI</string>
+    <string name="home_title">ElderShield AI</string>
+    <string name="home_status">आपका फोन सुरक्षित है।</string>
+    <string name="home_description">हम आपको घोटालों से सुरक्षित रखने के लिए संदेशों और लिंक की जांच करते हैं।</string>
+    <string name="check_message_button">संदेश जांचें</string>
+    
+    <string name="check_message_title">संदेश जांचें</string>
+    <string name="check_message_hint">यहां संदेश या लिंक पेस्ट करें...</string>
+    <string name="check_message_error_empty">कृपया जांचने के लिए एक संदेश दर्ज करें।</string>
+    
+    <string name="status_safe">सुरक्षित लग रहा है</string>
+    <string name="status_warning">सावधान रहें</string>
+    <string name="status_danger">संभावित धोखाधड़ी</string>
+    
+    <string name="what_happened">क्या हुआ?</string>
+    <string name="what_to_do">मुझे क्या करना चाहिए?</string>
+    <string name="danger_advice">लिंक पर क्लिक न करें या व्यक्तिगत जानकारी साझा न करें।</string>
+    
+    <string name="back">वापस जाएँ</string>
+    
+    <string name="check_link_button">लिंक जांचें</string>
+    <string name="check_call_button">कॉल जांचें</string>
+    <string name="settings_button">सेटिंग्स</string>
+
+    <string name="check_link_title">लिंक जांचें</string>
+    <string name="check_link_hint">यहां वेबसाइट का लिंक पेस्ट करें...</string>
+    <string name="check_link_error_empty">जांचने के लिए कृपया एक लिंक दर्ज करें।</string>
+
+    <string name="check_call_title">कॉल जांचें</string>
+    <string name="check_call_hint">यहां फोन नंबर टाइप करें...</string>
+    <string name="check_call_error_empty">कृपया एक फोन नंबर दर्ज करें।</string>
+
+    <string name="settings_title">सेटिंग्स और सहायता</string>
+    <string name="settings_about">ElderShield AI के बारे में</string>
+    <string name="settings_help">सहायता और ट्यूटोरियल</string>
+    <string name="settings_language">भाषा बदलें</string>
+
+    <string name="analyzing_title">जांच हो रही है...</string>
+    <string name="analyzing_desc">कृपया प्रतीक्षा करें जबकि हम इसकी जांच कर रहे हैं।</string>
+    <string name="status_unknown">आकलन करने में असमर्थ</string>
+    <string name="error_fallback">हम अभी इसकी जांच नहीं कर सके। कृपया इसे संदिग्ध मानें और सावधान रहें।</string>
+</resources>
